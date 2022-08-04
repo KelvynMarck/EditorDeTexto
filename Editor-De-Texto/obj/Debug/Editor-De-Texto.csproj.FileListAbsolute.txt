@@ -1,0 +1,11 @@
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\bin\Debug\Editor-De-Texto.exe.config
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\bin\Debug\Editor-De-Texto.exe
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\bin\Debug\Editor-De-Texto.pdb
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor-De-Texto.csproj.AssemblyReference.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor-De-Texto.csproj.SuggestedBindingRedirects.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor_De_Texto.Form1.resources
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor_De_Texto.Properties.Resources.resources
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor-De-Texto.csproj.GenerateResource.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor-De-Texto.csproj.CoreCompileInputs.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor-De-Texto.exe
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Editor-De-Texto\Editor-De-Texto\obj\Debug\Editor-De-Texto.pdb
